@@ -57,8 +57,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Seoul, Republic of Korea
 
 # Build settings
 markdown: kramdown
@@ -66,5 +65,10 @@ permalink: pretty
 
 # Reading Files
 exclude:
-  - "*.sh"
+  - .git
+  - .gitattributes
+  - .gitignore
+  - .jekyll-cache
+  - LICENSE
   - README
+  - "*.sh"
