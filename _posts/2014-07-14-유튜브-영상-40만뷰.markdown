@@ -4,6 +4,7 @@ subtitle: 촬영+편집
 layout: default
 modal-id: 2
 date: 2014-07-14
+video1: https://www.youtube.com/embed/ork__EtjF7o
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt

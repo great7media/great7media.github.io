@@ -4,6 +4,8 @@ subtitle: 기획+촬영+편집 100%
 layout: default
 modal-id: 4
 date: 2014-07-16
+video1: https://drive.google.com/file/d/1Zl7R-nAG9bWDBTr5JIupPOSkQBSLvKhx/preview
+video2: https://drive.google.com/file/d/1fY50KJtZfhY_NIWANeIVaRG1NeprKy_3/preview
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt

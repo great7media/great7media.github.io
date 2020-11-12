@@ -4,6 +4,7 @@ subtitle: 시나리오+촬영+편집+배역 90%
 layout: default
 modal-id: 1
 date: 2014-07-13
+video1: https://drive.google.com/file/d/1MgT4S9fedqFbGZdcxPKtYGu0o0u3imlK/preview
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt

@@ -15,3 +15,32 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+    <script type="text/javascript">
+        {% for post in site.posts %}
+            {% if post.video1 %}
+                $(function(){
+                    $("#portfolioModal{{ post.modal-id }}").on('hide.bs.modal', function(){
+                        $("#modal{{ post.modal-id }}video1").attr('src', '');
+                        $("#modal{{ post.modal-id }}video1").attr('src', '{{ post.video1 }}');
+                    });
+                });
+            {% endif %}
+            {% if post.video2 %}
+                $(function(){
+                    $("#portfolioModal{{ post.modal-id }}").on('hide.bs.modal', function(){
+                        $("#modal{{ post.modal-id }}video2").attr('src', '');
+                        $("#modal{{ post.modal-id }}video2").attr('src', '{{ post.video2 }}');
+                    });
+                });
+            {% endif %}
+            {% if post.video3 %}
+                $(function(){
+                    $("#portfolioModal{{ post.modal-id }}").on('hide.bs.modal', function(){
+                        $("#modal{{ post.modal-id }}video3").attr('src', '');
+                        $("#modal{{ post.modal-id }}video3").attr('src', '{{ post.video3 }}');
+                    });
+                });
+            {% endif %}
+        {% endfor %}
+    </script>

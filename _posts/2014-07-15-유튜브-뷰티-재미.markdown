@@ -4,6 +4,8 @@ subtitle: 기획+촬영+편집 100%
 layout: default
 modal-id: 3
 date: 2014-07-15
+video1: https://drive.google.com/file/d/1raaVLpxRIreo2syxUxw4naThvbwVnnrg/preview
+video2: https://drive.google.com/file/d/1vS3Rr0KIy0Nzt-DSXAgAs2LwI5CqX6Ye/preview
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
