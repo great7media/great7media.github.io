@@ -1,0 +1,12 @@
+---
+title: 유튜브 영상 (40만뷰)
+subtitle: 촬영+편집
+layout: default
+modal-id: 2
+date: 2020-07-01
+video1: https://www.youtube.com/embed/ork__EtjF7o
+thumbnail: 2-thumbnail.png
+alt: image-alt
+category: portfolio
+
+---

@@ -1,0 +1,13 @@
+---
+title: 유튜브 (뷰티/재미)
+subtitle: 기획+촬영+편집 100%
+layout: default
+modal-id: 3
+date: 2020-08-01
+video1: https://drive.google.com/file/d/1raaVLpxRIreo2syxUxw4naThvbwVnnrg/preview
+video2: https://drive.google.com/file/d/1vS3Rr0KIy0Nzt-DSXAgAs2LwI5CqX6Ye/preview
+thumbnail: 3-thumbnail.png
+alt: image-alt
+category: portfolio
+
+---

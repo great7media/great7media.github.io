@@ -1,0 +1,12 @@
+---
+title: B급 광고 영상
+subtitle: 시나리오+촬영+편집+배역 90%
+layout: default
+modal-id: 1
+date: 2020-06-01
+video1: https://drive.google.com/file/d/1MgT4S9fedqFbGZdcxPKtYGu0o0u3imlK/preview
+thumbnail: 1-thumbnail.png
+alt: image-alt
+category: portfolio
+
+---

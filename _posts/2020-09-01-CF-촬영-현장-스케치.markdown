@@ -1,0 +1,13 @@
+---
+title: CF 촬영 현장 스케치
+subtitle: 기획+촬영+편집 100%
+layout: default
+modal-id: 4
+date: 2020-09-01
+video1: https://drive.google.com/file/d/1Zl7R-nAG9bWDBTr5JIupPOSkQBSLvKhx/preview
+video2: https://drive.google.com/file/d/1fY50KJtZfhY_NIWANeIVaRG1NeprKy_3/preview
+thumbnail: 4-thumbnail.png
+alt: image-alt
+category: portfolio
+
+---

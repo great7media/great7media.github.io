@@ -1,0 +1,12 @@
+---
+title: 크릴오일 영상
+subtitle: 기획+스크립트+촬영+편집 100%
+layout: default
+modal-id: 5
+date: 2020-10-01
+video1: https://drive.google.com/file/d/1BuemdoQCsNClGNW2ekcJe_GTYaDWZY2I/preview
+thumbnail: 5-thumbnail.png
+alt: image-alt
+category: portfolio
+
+---

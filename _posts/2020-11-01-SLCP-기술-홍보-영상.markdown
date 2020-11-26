@@ -1,0 +1,12 @@
+---
+title: SLCP 기술 홍보 영상
+subtitle: 기획+스크립트+영상+성우 100%
+layout: default
+modal-id: 6
+date: 2020-11-01
+video1: https://drive.google.com/file/d/1j9QSBJ3pug8CgCGpNJtcXUQFzOwD6tRy/preview
+thumbnail: 6-thumbnail.png
+alt: image-alt
+category: portfolio
+
+---
